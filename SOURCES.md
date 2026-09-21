@@ -7,6 +7,7 @@ This desk’s feed is a snapshot. Recheck the live object.
 | Status referee | https://kaspaexplained.com/status | Live vs roadmap vs wrong |
 | Start | https://kaspaexplained.com/start-here | Beginner doors |
 | Explainer source | https://github.com/parker2017code/kaspa-explained | Independent |
+| Satire / jokes | https://100bps.wtf/ | Same Parker. Intern expo. Not a 100 BPS claim. |
 | Docs | https://docs.kaspa.org | Official operator / protocol |
 | Wiki wallets | https://wiki.kaspa.org/wallet | Hold keys. Never a seed here. |
 | Face | https://kaspa.org | Public site. Not the upgrade referee. |

@@ -125,6 +125,8 @@ A catalog row is not a pin. Chip is the honest label. Recheck the URL before quo
   Live vs roadmap vs wrong. /toccata-status Moved here.
 - **Build / covenants** [tracker] https://kaspaexplained.com/build-on-kaspa
   Covenant counts. Sep 1 indexer baseline: 84196 ever, 687 active.
+- **100bps.wtf** [satire] https://100bps.wtf/
+  Same maintainer as kaspaexplained (Parker Schmidt / parker2017code / @parker2017). Unauthorized intern expo: jokes, booths, listing theater. The domain is a joke about 100 BPS ambition, not a throughput claim. Field notes: https://100bps.wtf/archive. Never for activation.
 
 ## research.kas.pa (forum, not law) (research)
 
@@ -212,7 +214,7 @@ A catalog row is not a pin. Chip is the honest label. Recheck the URL before quo
 - **kccs** [split] https://github.com/kaspanet/kccs
   Refuse as a gram token. KCC-0 meta is Final in kcc-0000.md (kccs#25 merged c0bb8f3, 21 Sep). README index still says Draft. KCC-1/2/20/0012 still Draft. kccs#24 head 7159d48. kccs#27 head fa845057 approved, unmerged. Issue #28: four KCC20 layouts. kccs#29 proposes Draft KCC-3/4/5, not on main, not adopted.
 - **vprogs** [research] https://github.com/kaspanet/vprogs
-  No product testnet. Master still f9b84a8. #152 draft 74e24551 is the tictactoe host pin. #148 draft da2a7f26 is the parent, not the host pin. #147 head 74ee1b7d (was 1d449964). Guest ELF still the fork bridge-live-lane#128dd05f. Research only.
+  No product testnet. Master still f9b84a8. #152 draft 74e24551 is the tictactoe host pin. #148 draft da2a7f26 is the parent, not the host pin. #147 head 74ee1b7d (was 1d449964). Guest ELF still bridge-live-lane#128dd05f. Research only.
 - **kaspad (Go)** [deprecated] https://github.com/kaspanet/kaspad
   Use rusty-kaspa.
 
@@ -505,7 +507,7 @@ A catalog row is not a pin. Chip is the honest label. Recheck the URL before quo
 - **vprogs#131 guest-batteries** [open] https://github.com/kaspanet/vprogs/pull/131
   Battery extraction. Own body: tictactoe is first consumer git-pinning this branch — guest lock has moved to fork bridge-live-lane#128dd05f. ABI expect at zk/abi abi.rs:22 still panics duplicate access lists. Desk comment 5759822448.
 - **biryukovmaxim/vprog-tictactoe** [demo] https://github.com/biryukovmaxim/vprog-tictactoe/issues/24
-  Max guest demo (not kaspanet). Tip 92146b4. Host Cargo.lock pins reorg-safety#74e24551 (vprogs#152 draft). Guest ELF is the fork bridge-live-lane#128dd05f. Not a public product. Open #23. Desk report #24.
+  Max guest demo (not kaspanet). Tip 92146b4. Host Cargo.lock pins reorg-safety#74e24551 (vprogs#152 draft). Guest ELF fork bridge-live-lane#128dd05f. Not a public product. Open #23. Desk report #24.
 - **vprogs#148** [draft] https://github.com/kaspanet/vprogs/pull/148
   Draft. Head da2a7f26. settle-resume parent of #152. Tictactoe host moved off this head. Research only.
 - **kaspa.stream app** [explorer] https://kaspa.stream/

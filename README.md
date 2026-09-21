@@ -35,21 +35,22 @@ Seeds are refused on purpose. A website that wants the phrase is the attack.
 Primary, in the order the desk is told to trust:
 
 1. [kaspaexplained.com/status](https://kaspaexplained.com/status) — live vs roadmap vs wrong. Independent explainer ([parker2017code/kaspa-explained](https://github.com/parker2017code/kaspa-explained)).
-2. [docs.kaspa.org](https://docs.kaspa.org) and [kaspanet/kips](https://github.com/kaspanet/kips) — operator docs and consensus proposals. Merged Active KIP is law.
-3. [kaspanet/rusty-kaspa](https://github.com/kaspanet/rusty-kaspa) — the node. Tags beat slogans. v2.0.1 pin.
-4. [kaspanet/silverscript](https://github.com/kaspanet/silverscript) — compiler v1.0.0. A tag is not an audited dApp.
-5. [argent-lang/argent](https://github.com/argent-lang/argent) — preview. No tag.
-6. [kaspanet/kccs](https://github.com/kaspanet/kccs) — conventions. KCC-0 meta is **Final** in the file (kccs#25). The README index still says Draft. KCC-1, KCC-2, KCC-20, and KCC-0012 are not Final.
-7. [kaspanet/vprogs](https://github.com/kaspanet/vprogs) — research. Not a product testnet.
-8. [elldeeone/kaspa-x402](https://github.com/elldeeone/kaspa-x402) — x402 v2 on TN10, RC1. Not KCC-20.
-9. [kaspa.news](https://kaspa.news) — public recaps of Core R&D Telegram.
-10. [qa.kas.pa](https://qa.kas.pa/) — community Q&A. Not law.
-11. [kas-smiths.org](https://kas-smiths.org) — builder workshop.
-12. [research.kas.pa](https://research.kas.pa) — forum. A thread is not a KIP.
-13. [hashd.ag](https://hashd.ag/) — Yonatan Sompolinsky’s notes.
-14. [wiki.kaspa.org/wallet](https://wiki.kaspa.org/wallet) — how to hold keys.
-15. [kaspa.org](https://kaspa.org) — public face. Do not cite `/lore` as the upgrade referee.
-16. This desk’s pin encyclopedia: [STP-KAS/kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file).
+2. [100bps.wtf](https://100bps.wtf/) — jokes and intern satire. Same Parker as kaspaexplained. The domain is a joke about 100 BPS; not a throughput claim. Field notes: [100bps.wtf/archive](https://100bps.wtf/archive).
+3. [docs.kaspa.org](https://docs.kaspa.org) and [kaspanet/kips](https://github.com/kaspanet/kips) — operator docs and consensus proposals. Merged Active KIP is law.
+4. [kaspanet/rusty-kaspa](https://github.com/kaspanet/rusty-kaspa) — the node. Tags beat slogans. v2.0.1 pin.
+5. [kaspanet/silverscript](https://github.com/kaspanet/silverscript) — compiler v1.0.0. A tag is not an audited dApp.
+6. [argent-lang/argent](https://github.com/argent-lang/argent) — preview. No tag.
+7. [kaspanet/kccs](https://github.com/kaspanet/kccs) — conventions. KCC-0 meta is **Final** in the file (kccs#25). The README index still says Draft. KCC-1, KCC-2, KCC-20, and KCC-0012 are not Final.
+8. [kaspanet/vprogs](https://github.com/kaspanet/vprogs) — research. Not a product testnet.
+9. [elldeeone/kaspa-x402](https://github.com/elldeeone/kaspa-x402) — x402 v2 on TN10, RC1. Not KCC-20.
+10. [kaspa.news](https://kaspa.news) — public recaps of Core R&D Telegram.
+11. [qa.kas.pa](https://qa.kas.pa/) — community Q&A. Not law.
+12. [kas-smiths.org](https://kas-smiths.org) — builder workshop.
+13. [research.kas.pa](https://research.kas.pa) — forum. A thread is not a KIP.
+14. [hashd.ag](https://hashd.ag/) — Yonatan Sompolinsky’s notes.
+15. [wiki.kaspa.org/wallet](https://wiki.kaspa.org/wallet) — how to hold keys.
+16. [kaspa.org](https://kaspa.org) — public face. Do not cite `/lore` as the upgrade referee.
+17. This desk’s pin encyclopedia: [STP-KAS/kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file).
 
 Named X handles are **catalog**, max 20 on the search tool: @hashdag @michaelsuttonil @OriNewman @coderofstuff_ @FreshAir08 @hus_qy @IzioDev @biryukovmaxim @Avivz78 @kaspaunchained @StppStp @elldeeone @asaefstroem @manyfest_ @BankQuote @KASPAglobal @Kaspa_Commons @DesheShai.
 

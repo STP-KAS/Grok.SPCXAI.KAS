@@ -4,13 +4,14 @@ This desk’s feed is a snapshot. Recheck the live object.
 
 | Layer | URL | Role |
 | --- | --- | --- |
-| Status referee | https://kaspaexplained.com/status | Live vs roadmap vs wrong |
+| kaspa.org | https://kaspa.org | Credible source. Same footing as Kaspa Explained. |
+| Lore | https://kaspa.org/lore | 22 Sep 2026: 10 BPS, Toccata live, SilverScript v1.0.0, DAGKnight next. |
+| Status | https://kaspaexplained.com/status | Credible source. Same footing as kaspa.org. |
 | Start | https://kaspaexplained.com/start-here | Beginner doors |
 | Explainer source | https://github.com/parker2017code/kaspa-explained | Independent |
 | Satire / jokes | https://100bps.wtf/ | Same Parker. Intern expo. Not a 100 BPS claim. |
 | Docs | https://docs.kaspa.org | Official operator / protocol |
 | Wiki wallets | https://wiki.kaspa.org/wallet | Hold keys. Never a seed here. |
-| Face | https://kaspa.org | Public site. Not the upgrade referee. |
 | Node | https://github.com/kaspanet/rusty-kaspa | v2.0.1 pin |
 | KIPs | https://github.com/kaspanet/kips | Active is law |
 | SilverScript | https://github.com/kaspanet/silverscript | v1.0.0 compiler |

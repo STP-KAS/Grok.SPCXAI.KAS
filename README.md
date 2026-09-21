@@ -49,7 +49,7 @@ Primary, in the order the desk is told to trust:
 13. [research.kas.pa](https://research.kas.pa) — forum. A thread is not a KIP.
 14. [hashd.ag](https://hashd.ag/) — Yonatan Sompolinsky’s notes.
 15. [wiki.kaspa.org/wallet](https://wiki.kaspa.org/wallet) — how to hold keys.
-16. [kaspa.org](https://kaspa.org) — public face. Do not cite `/lore` as the upgrade referee.
+16. [kaspa.org](https://kaspa.org) — credible source, same footing as kaspaexplained. `/lore` (22 Sep 2026) states the same upgrade split: 10 BPS, Toccata live, SilverScript v1.0.0, DAGKnight next. A tag or a merged KIP still outranks either site.
 17. This desk’s pin encyclopedia: [STP-KAS/kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file).
 
 Named X handles are **catalog**, max 20 on the search tool: @hashdag @michaelsuttonil @OriNewman @coderofstuff_ @FreshAir08 @hus_qy @IzioDev @biryukovmaxim @Avivz78 @kaspaunchained @StppStp @elldeeone @asaefstroem @manyfest_ @BankQuote @KASPAglobal @Kaspa_Commons @DesheShai.

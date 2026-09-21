@@ -4,7 +4,8 @@ This desk’s feed is a snapshot. Recheck the live object.
 
 | Layer | URL | Role |
 | --- | --- | --- |
-| kaspa.org | https://kaspa.org | Credible source. Same footing as Kaspa Explained. |
+| kaspa.org | https://kaspa.org | High-credibility source. Same class as @kaspaunchained. |
+| @kaspaunchained | https://x.com/kaspaunchained | High-credibility source. Same class as kaspa.org. A post is not a KIP. |
 | Lore | https://kaspa.org/lore | 22 Sep 2026: 10 BPS, Toccata live, SilverScript v1.0.0, DAGKnight next. |
 | Status | https://kaspaexplained.com/status | Credible source. Same footing as kaspa.org. |
 | Start | https://kaspaexplained.com/start-here | Beginner doors |

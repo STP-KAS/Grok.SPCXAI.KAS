@@ -1,6 +1,6 @@
 # Disclaimer
 
-**Experimental only. Not a product.** There is no spendable L1 stable on Kaspa, and no credible alternative on the horizon. Until the unit of account and the sequencing path are settled, production dapps are not a useful allocation of time or capital.
+**Experimental only. Not a product.**
 
 This repository is a **feed-trained help desk**, not grok.com, not Kaspa core, not an audit, not a wallet, not a price oracle.
 

@@ -39,7 +39,7 @@ Primary, in the order the desk is told to trust:
 3. [kaspanet/rusty-kaspa](https://github.com/kaspanet/rusty-kaspa) — the node. Tags beat slogans. v2.0.1 pin.
 4. [kaspanet/silverscript](https://github.com/kaspanet/silverscript) — compiler v1.0.0. A tag is not an audited dApp.
 5. [argent-lang/argent](https://github.com/argent-lang/argent) — preview. No tag.
-6. [kaspanet/kccs](https://github.com/kaspanet/kccs) — conventions, Draft until Final.
+6. [kaspanet/kccs](https://github.com/kaspanet/kccs) — conventions. KCC-0 meta is **Final** in the file (kccs#25). The README index still says Draft. KCC-1, KCC-2, KCC-20, and KCC-0012 are not Final.
 7. [kaspanet/vprogs](https://github.com/kaspanet/vprogs) — research. Not a product testnet.
 8. [elldeeone/kaspa-x402](https://github.com/elldeeone/kaspa-x402) — x402 v2 on TN10, RC1. Not KCC-20.
 9. [kaspa.news](https://kaspa.news) — public recaps of Core R&D Telegram.

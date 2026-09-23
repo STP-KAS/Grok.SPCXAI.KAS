@@ -26,7 +26,7 @@ Seeds are refused on purpose. A website that wants the phrase is the attack.
 | --- | --- |
 | Tab | `Grok.SPCXAI.KAS` on [sixpack.wtf](https://sixpack.wtf/) |
 | Engine | SpaceXAI / xAI `grok-4.6` (server-side key) |
-| Feed | [feed/](feed/) — system, distilled law, catalog snapshot from [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file) |
+| Feed | [feed/](feed/) — system, distilled law, catalog, and [feed/now.md](feed/now.md) copied from [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file) section `now`. When that board moves, this feed moves, and so does [sixpack.wtf/grok.html](https://sixpack.wtf/grok.html). |
 | Learning | Thumbs-up answers can be folded into `lessons.json`. No PII. No seeds in logs. |
 | Not | grok.com · Kaspa core · an audit · a wallet · a price bot |
 
@@ -37,7 +37,7 @@ Primary, in the order the desk is told to trust:
 1. [kaspaexplained.com/status](https://kaspaexplained.com/status) — live vs roadmap vs wrong. Independent explainer ([parker2017code/kaspa-explained](https://github.com/parker2017code/kaspa-explained)).
 2. [100bps.wtf](https://100bps.wtf/) — jokes and intern satire. Same Parker as kaspaexplained. The domain is a joke about 100 BPS; not a throughput claim. Field notes: [100bps.wtf/archive](https://100bps.wtf/archive).
 3. [docs.kaspa.org](https://docs.kaspa.org) and [kaspanet/kips](https://github.com/kaspanet/kips) — operator docs and consensus proposals. Merged Active KIP is law.
-4. [kaspanet/rusty-kaspa](https://github.com/kaspanet/rusty-kaspa) — the node. Tags beat slogans. v2.0.1 pin.
+4. [kaspanet/rusty-kaspa](https://github.com/kaspanet/rusty-kaspa) — the node. Tags beat slogans. The release pin is the one in [feed/now.md](feed/now.md). v2.1.0 (`01b532e8`) is not a consensus activation. v2.0.1 (`cfafeb4c`) is the previous tag.
 5. [kaspanet/silverscript](https://github.com/kaspanet/silverscript) — compiler v1.0.0. A tag is not an audited dApp.
 6. [argent-lang/argent](https://github.com/argent-lang/argent) — preview. No tag.
 7. [kaspanet/kccs](https://github.com/kaspanet/kccs) — conventions. KCC-0 meta is **Final** in the file (kccs#25). The README index still says Draft. KCC-1, KCC-2, KCC-20, and KCC-0012 are not Final.
@@ -56,7 +56,7 @@ Named X handles are **catalog**, max 20 on the search tool: @hashdag @michaelsut
 
 A tweet is not a pin. @kaspaunchained is a high-credibility source, same class as https://kaspa.org.
 
-Full URL dump of the freeze: [feed/catalog.md](feed/catalog.md). Distilled law: [feed/feed.md](feed/feed.md). Persona: [feed/system.md](feed/system.md).
+Current board: [feed/now.md](feed/now.md). It wins when the catalog disagrees. The same text is [sixpack.wtf/grok/now.md](https://sixpack.wtf/grok/now.md). Distilled law: [feed/feed.md](feed/feed.md). Persona: [feed/system.md](feed/system.md). Older URL dump: [feed/catalog.md](feed/catalog.md).
 
 ## How it answers
 

@@ -2,7 +2,7 @@
 >
 > Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
 
-# Grok.SPCXAI.KAS
+# SI helpdesk
 
 **Live:** [https://sixpack.wtf/grok.html](https://sixpack.wtf/grok.html)
 
@@ -24,7 +24,7 @@ Seeds are refused on purpose. A website that wants the phrase is the attack.
 
 | Piece | Honest object |
 | --- | --- |
-| Tab | `Grok.SPCXAI.KAS` on [sixpack.wtf](https://sixpack.wtf/) |
+| Tab | SI helpdesk on [sixpack.wtf](https://sixpack.wtf/) |
 | Engine | SpaceXAI / xAI `grok-4.6` (server-side key) |
 | Feed | [feed/](feed/) — system, distilled law, catalog, and [feed/now.md](feed/now.md) copied from [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file) section `now`. When that board moves, this feed moves, and so does [sixpack.wtf/grok.html](https://sixpack.wtf/grok.html). |
 | Learning | Thumbs-up answers can be folded into `lessons.json`. No PII. No seeds in logs. |
